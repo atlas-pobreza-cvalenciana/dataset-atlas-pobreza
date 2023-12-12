@@ -5,4 +5,4 @@ En este repositorio puedes encontrar los dataset con información de varios indi
 
 Se incluye la información para tres niveles geográficos: municipios, distritos y secciones censales. Los datos puedes ser consultados en formatos csv, xlsx y sav. 
 
-En este enlace puedes consultar algunos resultados y el detalle de las variables incluidas en los dataset. 
+En este [enlace](https://atlas-pobreza-cvalenciana.github.io/dataset-atlas-pobreza/) puedes consultar algunos resultados y el detalle de las variables incluidas en los dataset ([versión PDF](https://atlas-pobreza-cvalenciana.github.io/dataset-atlas-pobreza/)). 
